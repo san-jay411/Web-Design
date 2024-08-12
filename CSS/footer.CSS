@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer{
+    background: #1b1b1b;
+    color: #fff;
+    padding: 52px 0;
+}
+.footersection{
+    display: flex;
+    justify-content: space-between;
+}
+.footersection h3{
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+.footersection .footerlogo a {
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
